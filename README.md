@@ -1,3 +1,16 @@
+# PriorityPal – AI-powered Task Management App
+
+This project was developed during the "Enfoque" phase at Tecnológico de Monterrey in collaboration with the Banco de Alimentos de Jalisco.
+
+PriorityPal is a mobile application designed to optimize internal task management through artificial intelligence, internal communication, and automated performance reporting. It helped increase the organization's operational efficiency by 55%.
+
+Technologies: TypeScript, JavaScript, Kotlin, Objective-C, Ruby, Objective-C++  
+Team: Fernanda Díaz, Miguel Barrientos, Carlos Armenta, Jorge Blasquez, Gabriel Alvarez
+
+Note: This repository is part of a collaborative project. The technical documentation below explains how to run and modify the application.
+
+---
+
 # Prerequisites
 - To run this project on your desktop please
 - First, clone this repository.
